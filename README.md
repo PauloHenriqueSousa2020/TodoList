@@ -90,3 +90,16 @@ celular utilizando o aplicativo Expo <a href="https://play.google.com/store/apps
 	</tr>
 </table>
 
+<h3> Funcionalidades desenvolvidas: </h3>
+
+<ul>
+	<li>Listagem de Rotinas já criadas</li>
+	<li>Criação de uma nova Rotina</li>
+	<li>Exclusão de Rotina</li>
+	<li>Adicionar uma Rotina como tarefa a ser concluida</li>
+	<li>Excluir uma Rotina de tarefa a ser concluida</li>
+	<li>Listagem de Rotinas a serem concluidas</li>
+	<li>Listagem de Rotinas ja concluidas</li>
+</ul>
+
+

@@ -20,7 +20,7 @@
   <li> <a href="https://expo.io/"> Expo </a> </li>  
 </ul>
 
-<h4 align="justify">Para esse processo seletivo foi desenvolvido uma API em NodeJS e hospedada a aplicação na plataforma heroku a partir do link a seguir: https://listapplicationto-do.herokuapp.com/
+<h4 align="justify">Para esse processo seletivo foi desenvolvido uma API em NodeJS e hospedada a aplicação na plataforma heroku a partir do link a seguir: https://listapplicationto-do.herokuapp.com/todo
 é possível encontrar o código dessa api a partir desse <a href="https://github.com/PauloHenriqueSousa2020/TodoList/tree/main/backend">Link</a> para obter mais informações a cerca do backend desenvolvido </h4>
 
 <h3> Para utilizar: </h3>

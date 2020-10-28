@@ -1,10 +1,8 @@
-# Processo Seletivo Tech - Inovação Tecnológica para a Agropecuária
+# ToDo List
 
 <div align="center">
  <img align="center" alt="TodoList" title="#Processo Seletivo Tech" src="./imgs/landing.png" width=200px />
 </div>
-
-<h2 align="center"> Aplicação desenvolvida para o processo seletivo promovido pela <a href="https://techagr.com/"> Tech </a></h2> <br/>
 
 <h2 align="center"> Desenvolvida com as tecnologias <img src="imgs/js.png" alt="JavaScirpt" height="18"> JavaScript, 
     <img src="imgs/node.png" alt="node" height="18"> Node, <img src="imgs/react-native.png" alt="react-native" height="18"> React Native e 
